@@ -3,5 +3,5 @@ from time import sleep
 print('Iniciando Contagem regressiva da bomba:')
 for cont in range(10, -1, -1):
     print(cont)
-    sleep(0.8)
+    sleep(1)
 print('BUUUUMMMMMMM!!!')
